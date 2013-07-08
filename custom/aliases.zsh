@@ -11,5 +11,9 @@ alias j='jobs'
 alias t='tree -ACFh'
 
 alias gs='git status'
+alias gg='git grep'
 
-alias tm='tmux'
+alias tm='tmux -u'
+
+alias r=ruby
+alias p=python
