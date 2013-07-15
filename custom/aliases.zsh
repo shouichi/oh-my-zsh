@@ -19,3 +19,5 @@ alias tm='tmux -u'
 
 alias r=ruby
 alias p=python
+
+alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
