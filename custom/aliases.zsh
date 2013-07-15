@@ -8,6 +8,8 @@ alias e='emacs'
 
 alias j='jobs'
 
+alias su='su -'
+
 alias t='tree -ACFh'
 
 alias gs='git status'
