@@ -7,6 +7,8 @@ alias v='vim'
 
 alias e='emacs'
 
+alias s='ssh'
+
 alias j='jobs'
 
 alias su='su -'
