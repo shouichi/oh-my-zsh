@@ -1,6 +1,7 @@
 alias c='cd'
 
 alias l='ls'
+alias ll='ls --color=auto -F --group-directories-first -hl --time-style=+"%Y-%m-%d %H:%M:%S"'
 
 alias v='vim'
 
